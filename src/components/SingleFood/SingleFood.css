@@ -1,0 +1,27 @@
+.card{
+    box-shadow: 0 10px 20px gray;
+    border: 1px solid gray;
+    border-radius: 15px;
+    width: 320px;
+    padding: 13px;
+}
+
+.card h3, p{
+    margin: 0;
+    line-height: 35px;
+}
+
+.foodBtn{
+    border: none;
+    background-color: forestgreen;
+    color: #fff;
+    padding: 10px 40px;
+    font-size: 16px;
+    margin: 10px 0;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.foodBtn:hover{
+    background-color: green;
+}
